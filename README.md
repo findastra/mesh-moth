@@ -15,3 +15,4 @@ Open `index.html` in any modern browser. There are no dependencies and no build 
 - No Meshtastic connection yet. The page does not talk to any radio.
 - No pixel art yet. `sprite.json` is an empty placeholder.
 - No desktop version, no data storage, no tests.
+- Not in the Cage yet. Registering it is [card 008](https://github.com/findastra/astras-pet-apps/blob/main/handoffs/008-farmer-register-new-placeholders.md) for the Friendly Farmer.
