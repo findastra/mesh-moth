@@ -3,16 +3,21 @@
   "kind": "pet-app",
   "owner": "Astra",
   "sprite": "sprite.json",
-  "job": "Placeholder for a pet that stands for a Meshtastic node: it will show the node's place in a radio mesh.",
+  "job": "Manages Astra’s Meshtastic node: its place in the radio mesh, its health and its messages.",
   "runs_on": "Any modern browser (index.html). Meshtastic radio hardware is not required for the placeholder.",
   "entry": "index.html",
   "status": "hatching",
   "cage": {
     "topic": "pet-app",
     "home": "README.md",
-    "repository": "https://github.com/findastra/astras-pet-apps"
+    "repository": "https://github.com/findastra/astras-pet-os"
   },
   "built_with": "Claude Haiku 5.5 (claude-haiku-5-5), 2026-10-09; brought up to the pet file rules with Claude Opus 5.5 (claude-opus-5-5), 2026-10-09; OpenAI Codex (GPT-6), 2026-10-11",
   "updated": "2026-10-09",
-  "desktop_pet": "desktop-pet-20261011.json"
+  "desktop_pet": "desktop-pet-20261011.json",
+  "audit": {
+    "cadence": "weekly",
+    "subject": "the Meshtastic node plan",
+    "needs": "a job: what should Mesh Moth watch?"
+  }
 }
