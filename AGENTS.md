@@ -4,8 +4,8 @@ Mesh Moth is a pet app by Astra (a Meshtastic node pet). It is a **hatching** pl
 
 Rules for any assistant working here:
 
-- Follow the pet rules in Astra's Pet Apps: `pet.json` must stay valid, `sprite` and `entry` must be real files, and the status is hatching, growing or grown.
-- Before changing anything, check the hub's newest handoff at `Projects\astras-pet-apps` (`docs/handoff-*.md`). Do not touch the hub from this repo.
+- Follow the pet rules in Astra's PetOS: `pet.json` must stay valid, `sprite` and `entry` must be real files, and the status is hatching, growing or grown.
+- Before changing anything, check the hub's newest handoff at `Astra's PetOS\astras-pet-os` (`docs/handoff-*.md`). Do not touch the hub from this repo.
 - Do not add keys, `.env` files or personal data. Public credit is Astra.
 - Update `pet.json` `built_with` with the model and date of any change.
 
